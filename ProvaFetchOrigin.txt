@@ -1,1 +1,3 @@
-Perché prima è bastata la fetch per trovare i nuovi dati? 
+Nuovamente, non ho avuto bisogno di fetch origin
+Modificherò il progetto dalla repo remota e proverò a fare una push sugli stessi file per vedere 
+come viene gestita
