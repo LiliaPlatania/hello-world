@@ -1,1 +1,1 @@
-Perché prima è bastata la fetch per trovare i nuovi dati? 
+Modifico questo file da una branch della branch che sto usando da remoto. Salvo le modifiche ed eseguo da remoto una push senza aver fatto una fetch dopo la prima modifica.
