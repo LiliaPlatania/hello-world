@@ -1,3 +1,3 @@
 # hello-world
 Prova 
-Questa è una prova per comprendere il branching. 
+Questa è una prova per comprendere il commit, Hello World! 
