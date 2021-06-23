@@ -2,6 +2,6 @@
 
 main () {
 
-    printf("Hello World! Modifica da gitHub per capire git fetch");
+    printf("Hello World!");
 
 }
